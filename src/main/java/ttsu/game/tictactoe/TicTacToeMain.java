@@ -8,7 +8,7 @@ import ttsu.game.ai.heuristic.tictactoe.TicTacToeEvaluator;
 import ttsu.game.tictactoe.TicTacToeGameState.Player;
 
 public class TicTacToeMain {
-
+//meg van modositva,latszodik e a repon?
   /**
    * @param args
    */
